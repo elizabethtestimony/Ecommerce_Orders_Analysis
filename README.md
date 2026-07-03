@@ -66,7 +66,6 @@ After completing the analysis, several patterns emerged:
 
 ## Skills Applied
 
-- Data Wrangling
 - Exploratory Data Analysis (EDA)
 - Business Intelligence
 - Data Visualization
@@ -79,8 +78,8 @@ After completing the analysis, several patterns emerged:
 ```
 📂 Project
 │
-├── 📓 ecommerce_orders_dataset.ipynb
-├── 📄 dataset.csv
+├── 📓 ecommerce_sales_analysis.ipynb
+├── 📄 ecommerce_orders_dataset.csv
 └── 📘 README.md
 ```
 
