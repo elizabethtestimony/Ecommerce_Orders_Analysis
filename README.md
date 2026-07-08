@@ -1,4 +1,4 @@
-# 🛍️ Turning E-Commerce Data into Business Insights
+# Turning E-Commerce Data into Business Insights
 
 ## Project Summary
 
@@ -76,11 +76,11 @@ After completing the analysis, several patterns emerged:
 ## Project Structure
 
 ```
-📂 Project
+ Project
 │
-├── 📓 ecommerce_sales_analysis.ipynb
-├── 📄 ecommerce_orders_dataset.csv
-└── 📘 README.md
+├──  ecommerce_sales_analysis.ipynb
+├──  ecommerce_orders_dataset.csv
+└──  README.md
 ```
 
 ---
